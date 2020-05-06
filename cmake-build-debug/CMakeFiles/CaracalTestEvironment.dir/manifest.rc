@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/prana/CLionProjects/CaracalTestEvironment/cmake-build-debug/CMakeFiles/CaracalTestEvironment.dir/embed.manifest"

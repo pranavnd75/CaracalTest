@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/prana/CLionProjects/CaracalTestEvironment/filehandler.cpp
+iostream
+-
+fstream
+-
+string
+-
+filehandler.h
+C:/Users/prana/CLionProjects/CaracalTestEvironment/filehandler.h
+
+C:/Users/prana/CLionProjects/CaracalTestEvironment/filehandler.h
+iostream
+-
+fstream
+-
+string
+-
+
